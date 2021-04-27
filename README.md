@@ -14,4 +14,6 @@ eg:
 
 eg:
 
-    Two Sum-leetcode.js
+    Two Sum.js
+    Two Sum.py
+    Two Sum.cpp
