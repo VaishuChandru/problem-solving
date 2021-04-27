@@ -4,9 +4,14 @@ Collection of solutions to problems available in problem solving sites like code
 
 ### Wanna Contribute?
 
-1. Switch to branch based on the language you're solving problems.
-2. Name your file like <Problem title> - < platform name >
+1. Create a folder and name the folder as problem title.
 
 eg:
 
-    Two_Sum-leetcode.js
+      Two Sum
+
+2. Create a file inside that folder with extension as your language.
+
+eg:
+
+    Two Sum-leetcode.js
