@@ -1,3 +1,8 @@
+/*
+@inputl:string(password)
+@output:will return strength(weak,medium,good,strong)
+*/
+
 def check_Strength_Of_Pwd(ip):
     cond_1, cond_2, cond_3 = 0, 0, 0
     strength = 0
